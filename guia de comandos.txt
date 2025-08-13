@@ -3,3 +3,6 @@
 3) git add .
 4) git commit -m "mensagem de commit"
 5) git push origin main 
+
+6) *agora estamos na branch nova
+7) git checkout -b dev
